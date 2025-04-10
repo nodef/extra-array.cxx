@@ -120,3 +120,4 @@ AInt_close(&o);
 
 
 [![cppf](https://i.imgur.com/eKtn1hj.jpg)](https://cppf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-array.cxx)
